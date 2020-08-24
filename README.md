@@ -1,4 +1,4 @@
-# cors-anywhere
+# Cors Anywhere
 
 ## (CORS) Cross-Origin Resource Sharing 
 
@@ -6,7 +6,7 @@
 
 ```is a mechanism by which restricted resources on a web page can be requested from another domain outside of the domain from which the first resource was served. A website can freely embed original images, stylesheets, scripts, iframes and videos.```
 
-## (anywhere) we're not anywhere Definition 
+## (anywhere) we're not anywhere  
 
 ```Near as any place from your own prospective or anywhere else. Definition of anywhere
 at, in, or to any place or point. To any extent is it simplified the frase: "at all" used as a function word to indicate limits of variation```
